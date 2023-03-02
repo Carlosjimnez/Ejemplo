@@ -3,6 +3,7 @@ package clase1;
 public class Alumno {
 	private int numero;
 	private String dni;
+	private String apellido;
 	public Alumno(int numero, String dni) {
 		super();
 		this.numero = numero;
